@@ -1,5 +1,5 @@
 {
-    "name": "kirschbaum-development/laravel-openapi-validator",
+    "name": "tyamahori/laravel-openapi-validator",
     "description": "Automatic OpenAPI validation for Laravel HTTP tests",
     "keywords": [
         "laravel",
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Zack Teska",
-            "email": "zack@kirschbaumdevelopment.com",
+            "name": "tyamahori",
+            "email": "tyamahori[at]sgmail.com",
             "role": "Developer"
         }
     ],
